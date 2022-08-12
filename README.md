@@ -3,6 +3,9 @@
 - 📫 You can reach me through email - satwik@thesatwik.com
 - 🌱 I’m currently learning Advanced and Secure design in Azure 
 
+Regards,
+Satwik 
+
 <!--
 **thesatwik/thesatwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

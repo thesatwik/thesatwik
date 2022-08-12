@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on various cloud deployment projects. 
+- 🔭 I’m currently working on various cloud deployment, Infrastrucure Management projects. 
 - 📫 You can reach me through email - satwik@thesatwik.com
 - 🌱 I’m currently learning Advanced and Secure design in Azure 
 
